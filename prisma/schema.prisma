@@ -9,3 +9,11 @@ datasource db {
 generator client {
   provider = "prisma-client-js"
 }
+
+model Pokemon {
+  autoId String  @id @default(uuid())
+  id     String
+  name   String
+  classification String
+  types String[]
+}

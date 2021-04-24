@@ -13,4 +13,4 @@ services:
       POSTGRES_PASSWORD: squirtlesquad
       POSTGRES_DB: pkdb
     ports:
-      - 5464:5464
+      - 5432:5432

@@ -16,4 +16,6 @@ model Pokemon {
   name   String
   classification String
   types String[]
+  resistant String[]
+  weaknesses String[]
 }

@@ -8,6 +8,7 @@ const seedData = async () => {
     for (let val of pkdata) {
         try {
             const pokemon = await prisma.pokemon.create({data: val})
+            console.log('PK: ', pokemon)
         } catch (error) {
             console.warn(error)
         }

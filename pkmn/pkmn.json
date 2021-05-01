@@ -3,6 +3,7 @@
       "id": "001",
       "name": "Bulbasaur",
       "classification": "Seed Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
       "types": [
         "Grass",
         "Poison"
@@ -19,6 +20,7 @@
       "id": "002",
       "name": "Ivysaur",
       "classification": "Seed Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
       "types": [
         "Grass",
         "Poison"
@@ -41,6 +43,7 @@
       "id": "003",
       "name": "Venusaur",
       "classification": "Seed Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
       "types": [
         "Grass",
         "Poison"
@@ -63,6 +66,7 @@
       "id": "004",
       "name": "Charmander",
       "classification": "Lizard Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
       "types": [
         "Fire"
       ],
@@ -84,6 +88,7 @@
       "id": "005",
       "name": "Charmeleon",
       "classification": "Flame Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
       "types": [
         "Fire"
       ],
@@ -105,6 +110,7 @@
       "id": "006",
       "name": "Charizard",
       "classification": "Flame Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
       "types": [
         "Fire",
         "Flying"
@@ -127,6 +133,7 @@
       "id": "007",
       "name": "Squirtle",
       "classification": "Tiny Turtle Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
       "types": [
         "Water"
       ],
@@ -145,6 +152,7 @@
       "id": "008",
       "name": "Wartortle",
       "classification": "Turtle Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
       "types": [
         "Water"
       ],
@@ -163,6 +171,7 @@
       "id": "009",
       "name": "Blastoise",
       "classification": "Shellfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
       "types": [
         "Water"
       ],
@@ -181,6 +190,7 @@
       "id": "010",
       "name": "Caterpie",
       "classification": "Worm Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
       "types": [
         "Bug"
       ],
@@ -199,6 +209,7 @@
       "id": "011",
       "name": "Metapod",
       "classification": "Cocoon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
       "types": [
         "Bug"
       ],
@@ -217,6 +228,7 @@
       "id": "012",
       "name": "Butterfree",
       "classification": "Butterfly Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "types": [
         "Bug",
         "Flying"
@@ -239,6 +251,7 @@
       "id": "013",
       "name": "Weedle",
       "classification": "Hairy Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
       "types": [
         "Bug",
         "Poison"
@@ -261,6 +274,7 @@
       "id": "014",
       "name": "Kakuna",
       "classification": "Cocoon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
       "types": [
         "Bug",
         "Poison"
@@ -283,6 +297,7 @@
       "id": "015",
       "name": "Beedrill",
       "classification": "Poison Bee Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
       "types": [
         "Bug",
         "Poison"
@@ -305,6 +320,7 @@
       "id": "016",
       "name": "Pidgey",
       "classification": "Tiny Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
       "types": [
         "Normal",
         "Flying"
@@ -325,6 +341,7 @@
       "id": "017",
       "name": "Pidgeotto",
       "classification": "Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
       "types": [
         "Normal",
         "Flying"
@@ -345,6 +362,7 @@
       "id": "018",
       "name": "Pidgeot",
       "classification": "Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
       "types": [
         "Normal",
         "Flying"
@@ -365,6 +383,7 @@
       "id": "019",
       "name": "Rattata",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
       "types": [
         "Normal"
       ],
@@ -379,6 +398,7 @@
       "id": "020",
       "name": "Raticate",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
       "types": [
         "Normal"
       ],
@@ -393,6 +413,7 @@
       "id": "021",
       "name": "Spearow",
       "classification": "Tiny Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
       "types": [
         "Normal",
         "Flying"
@@ -413,6 +434,7 @@
       "id": "022",
       "name": "Fearow",
       "classification": "Beak Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
       "types": [
         "Normal",
         "Flying"
@@ -433,6 +455,7 @@
       "id": "023",
       "name": "Ekans",
       "classification": "Snake Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
       "types": [
         "Poison"
       ],
@@ -452,6 +475,7 @@
       "id": "024",
       "name": "Arbok",
       "classification": "Cobra Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
       "types": [
         "Poison"
       ],
@@ -471,6 +495,7 @@
       "id": "025",
       "name": "Pikachu",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
       "types": [
         "Electric"
       ],
@@ -487,6 +512,7 @@
       "id": "026",
       "name": "Raichu",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
       "types": [
         "Electric"
       ],
@@ -503,6 +529,7 @@
       "id": "027",
       "name": "Sandshrew",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
       "types": [
         "Ground"
       ],
@@ -521,6 +548,7 @@
       "id": "028",
       "name": "Sandslash",
       "classification": "Mouse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
       "types": [
         "Ground"
       ],
@@ -539,6 +567,7 @@
       "id": "029",
       "name": "Nidoran-F",
       "classification": "Poison Pin Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
       "types": [
         "Poison"
       ],
@@ -558,6 +587,7 @@
       "id": "030",
       "name": "Nidorina",
       "classification": "Poison Pin Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
       "types": [
         "Poison"
       ],
@@ -577,6 +607,7 @@
       "id": "031",
       "name": "Nidoqueen",
       "classification": "Drill Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
       "types": [
         "Poison",
         "Ground"
@@ -600,6 +631,7 @@
       "id": "032",
       "name": "Nidoran-M",
       "classification": "Poison Pin Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
       "types": [
         "Poison"
       ],
@@ -619,6 +651,7 @@
       "id": "033",
       "name": "Nidorino",
       "classification": "Poison Pin Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
       "types": [
         "Poison"
       ],
@@ -638,6 +671,7 @@
       "id": "034",
       "name": "Nidoking",
       "classification": "Drill Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
       "types": [
         "Poison",
         "Ground"
@@ -661,6 +695,7 @@
       "id": "035",
       "name": "Clefairy",
       "classification": "Fairy Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
       "types": [
         "Fairy"
       ],
@@ -679,6 +714,7 @@
       "id": "036",
       "name": "Clefable",
       "classification": "Fairy Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
       "types": [
         "Fairy"
       ],
@@ -697,6 +733,7 @@
       "id": "037",
       "name": "Vulpix",
       "classification": "Fox Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
       "types": [
         "Fire"
       ],
@@ -718,6 +755,7 @@
       "id": "038",
       "name": "Ninetales",
       "classification": "Fox Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
       "types": [
         "Fire"
       ],
@@ -739,6 +777,7 @@
       "id": "039",
       "name": "Jigglypuff",
       "classification": "Balloon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
       "types": [
         "Normal",
         "Fairy"
@@ -758,6 +797,7 @@
       "id": "040",
       "name": "Wigglytuff",
       "classification": "Balloon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
       "types": [
         "Normal",
         "Fairy"
@@ -777,6 +817,7 @@
       "id": "041",
       "name": "Zubat",
       "classification": "Bat Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
       "types": [
         "Poison",
         "Flying"
@@ -799,6 +840,7 @@
       "id": "042",
       "name": "Golbat",
       "classification": "Bat Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
       "types": [
         "Poison",
         "Flying"
@@ -821,6 +863,7 @@
       "id": "043",
       "name": "Oddish",
       "classification": "Weed Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
       "types": [
         "Grass",
         "Poison"
@@ -843,6 +886,7 @@
       "id": "044",
       "name": "Gloom",
       "classification": "Weed Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
       "types": [
         "Grass",
         "Poison"
@@ -865,6 +909,7 @@
       "id": "045",
       "name": "Vileplume",
       "classification": "Flower Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
       "types": [
         "Grass",
         "Poison"
@@ -887,6 +932,7 @@
       "id": "046",
       "name": "Paras",
       "classification": "Mushroom Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
       "types": [
         "Bug",
         "Grass"
@@ -911,6 +957,7 @@
       "id": "047",
       "name": "Parasect",
       "classification": "Mushroom Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
       "types": [
         "Bug",
         "Grass"
@@ -935,6 +982,7 @@
       "id": "048",
       "name": "Venonat",
       "classification": "Insect Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
       "types": [
         "Bug",
         "Poison"
@@ -957,6 +1005,7 @@
       "id": "049",
       "name": "Venomoth",
       "classification": "Poison Moth Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
       "types": [
         "Bug",
         "Poison"
@@ -979,6 +1028,7 @@
       "id": "050",
       "name": "Diglett",
       "classification": "Mole Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
       "types": [
         "Ground"
       ],
@@ -997,6 +1047,7 @@
       "id": "051",
       "name": "Dugtrio",
       "classification": "Mole Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
       "types": [
         "Ground"
       ],
@@ -1015,6 +1066,7 @@
       "id": "052",
       "name": "Meowth",
       "classification": "Scratch Cat Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
       "types": [
         "Normal"
       ],
@@ -1029,6 +1081,7 @@
       "id": "053",
       "name": "Persian",
       "classification": "Classy Cat Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
       "types": [
         "Normal"
       ],
@@ -1043,6 +1096,7 @@
       "id": "054",
       "name": "Psyduck",
       "classification": "Duck Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
       "types": [
         "Water"
       ],
@@ -1061,6 +1115,7 @@
       "id": "055",
       "name": "Golduck",
       "classification": "Duck Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
       "types": [
         "Water"
       ],
@@ -1079,6 +1134,7 @@
       "id": "056",
       "name": "Mankey",
       "classification": "Pig Monkey Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
       "types": [
         "Fighting"
       ],
@@ -1097,6 +1153,7 @@
       "id": "057",
       "name": "Primeape",
       "classification": "Pig Monkey Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
       "types": [
         "Fighting"
       ],
@@ -1115,6 +1172,7 @@
       "id": "058",
       "name": "Growlithe",
       "classification": "Puppy Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
       "types": [
         "Fire"
       ],
@@ -1136,6 +1194,7 @@
       "id": "059",
       "name": "Arcanine",
       "classification": "Legendary Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
       "types": [
         "Fire"
       ],
@@ -1157,6 +1216,7 @@
       "id": "060",
       "name": "Poliwag",
       "classification": "Tadpole Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
       "types": [
         "Water"
       ],
@@ -1175,6 +1235,7 @@
       "id": "061",
       "name": "Poliwhirl",
       "classification": "Tadpole Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
       "types": [
         "Water"
       ],
@@ -1193,6 +1254,7 @@
       "id": "062",
       "name": "Poliwrath",
       "classification": "Tadpole Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
       "types": [
         "Water",
         "Fighting"
@@ -1218,6 +1280,7 @@
       "id": "063",
       "name": "Abra",
       "classification": "Psi Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
       "types": [
         "Psychic"
       ],
@@ -1235,6 +1298,7 @@
       "id": "064",
       "name": "Kadabra",
       "classification": "Psi Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
       "types": [
         "Psychic"
       ],
@@ -1252,6 +1316,7 @@
       "id": "065",
       "name": "Alakazam",
       "classification": "Psi Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
       "types": [
         "Psychic"
       ],
@@ -1269,6 +1334,7 @@
       "id": "066",
       "name": "Machop",
       "classification": "Superpower Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
       "types": [
         "Fighting"
       ],
@@ -1287,6 +1353,7 @@
       "id": "067",
       "name": "Machoke",
       "classification": "Superpower Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
       "types": [
         "Fighting"
       ],
@@ -1305,6 +1372,7 @@
       "id": "068",
       "name": "Machamp",
       "classification": "Superpower Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
       "types": [
         "Fighting"
       ],
@@ -1323,6 +1391,7 @@
       "id": "069",
       "name": "Bellsprout",
       "classification": "Flower Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
       "types": [
         "Grass",
         "Poison"
@@ -1345,6 +1414,7 @@
       "id": "070",
       "name": "Weepinbell",
       "classification": "Flycatcher Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
       "types": [
         "Grass",
         "Poison"
@@ -1367,6 +1437,7 @@
       "id": "071",
       "name": "Victreebel",
       "classification": "Flycatcher Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
       "types": [
         "Grass",
         "Poison"
@@ -1389,6 +1460,7 @@
       "id": "072",
       "name": "Tentacool",
       "classification": "Jellyfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
       "types": [
         "Water",
         "Poison"
@@ -1413,6 +1485,7 @@
       "id": "073",
       "name": "Tentacruel",
       "classification": "Jellyfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
       "types": [
         "Water",
         "Poison"
@@ -1437,6 +1510,7 @@
       "id": "074",
       "name": "Geodude",
       "classification": "Rock Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
       "types": [
         "Rock",
         "Ground"
@@ -1462,6 +1536,7 @@
       "id": "075",
       "name": "Graveler",
       "classification": "Rock Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
       "types": [
         "Rock",
         "Ground"
@@ -1487,6 +1562,7 @@
       "id": "076",
       "name": "Golem",
       "classification": "Megaton Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
       "types": [
         "Rock",
         "Ground"
@@ -1512,6 +1588,7 @@
       "id": "077",
       "name": "Ponyta",
       "classification": "Fire Horse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
       "types": [
         "Fire"
       ],
@@ -1533,6 +1610,7 @@
       "id": "078",
       "name": "Rapidash",
       "classification": "Fire Horse Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
       "types": [
         "Fire"
       ],
@@ -1554,6 +1632,7 @@
       "id": "079",
       "name": "Slowpoke",
       "classification": "Dopey Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
       "types": [
         "Water",
         "Psychic"
@@ -1578,6 +1657,7 @@
       "id": "080",
       "name": "Slowbro",
       "classification": "Hermit Crab Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
       "types": [
         "Water",
         "Psychic"
@@ -1602,6 +1682,7 @@
       "id": "081",
       "name": "Magnemite",
       "classification": "Magnet Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
       "types": [
         "Electric",
         "Steel"
@@ -1630,6 +1711,7 @@
       "id": "082",
       "name": "Magneton",
       "classification": "Magnet Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
       "types": [
         "Electric",
         "Steel"
@@ -1658,6 +1740,7 @@
       "id": "083",
       "name": "Farfetch'd",
       "classification": "Wild Duck Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
       "types": [
         "Normal",
         "Flying"
@@ -1678,6 +1761,7 @@
       "id": "084",
       "name": "Doduo",
       "classification": "Twin Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
       "types": [
         "Normal",
         "Flying"
@@ -1698,6 +1782,7 @@
       "id": "085",
       "name": "Dodrio",
       "classification": "Triple Bird Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
       "types": [
         "Normal",
         "Flying"
@@ -1718,6 +1803,7 @@
       "id": "086",
       "name": "Seel",
       "classification": "Sea Lion Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
       "types": [
         "Water"
       ],
@@ -1736,6 +1822,7 @@
       "id": "087",
       "name": "Dewgong",
       "classification": "Sea Lion Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
       "types": [
         "Water",
         "Ice"
@@ -1755,6 +1842,7 @@
       "id": "088",
       "name": "Grimer",
       "classification": "Sludge Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
       "types": [
         "Poison"
       ],
@@ -1774,6 +1862,7 @@
       "id": "089",
       "name": "Muk",
       "classification": "Sludge Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
       "types": [
         "Poison"
       ],
@@ -1793,6 +1882,7 @@
       "id": "090",
       "name": "Shellder",
       "classification": "Bivalve Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
       "types": [
         "Water"
       ],
@@ -1811,6 +1901,7 @@
       "id": "091",
       "name": "Cloyster",
       "classification": "Bivalve Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
       "types": [
         "Water",
         "Ice"
@@ -1830,6 +1921,7 @@
       "id": "092",
       "name": "Gastly",
       "classification": "Gas Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
       "types": [
         "Ghost",
         "Poison"
@@ -1853,6 +1945,7 @@
       "id": "093",
       "name": "Haunter",
       "classification": "Gas Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
       "types": [
         "Ghost",
         "Poison"
@@ -1876,6 +1969,7 @@
       "id": "094",
       "name": "Gengar",
       "classification": "Shadow Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
       "types": [
         "Ghost",
         "Poison"
@@ -1899,6 +1993,7 @@
       "id": "095",
       "name": "Onix",
       "classification": "Rock Snake Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
       "types": [
         "Rock",
         "Ground"
@@ -1924,6 +2019,7 @@
       "id": "096",
       "name": "Drowzee",
       "classification": "Hypnosis Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
       "types": [
         "Psychic"
       ],
@@ -1941,6 +2037,7 @@
       "id": "097",
       "name": "Hypno",
       "classification": "Hypnosis Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
       "types": [
         "Psychic"
       ],
@@ -1958,6 +2055,7 @@
       "id": "098",
       "name": "Krabby",
       "classification": "River Crab Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
       "types": [
         "Water"
       ],
@@ -1976,6 +2074,7 @@
       "id": "099",
       "name": "Kingler",
       "classification": "Pincer Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
       "types": [
         "Water"
       ],
@@ -1994,6 +2093,7 @@
       "id": "100",
       "name": "Voltorb",
       "classification": "Ball Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
       "types": [
         "Electric"
       ],
@@ -2010,6 +2110,7 @@
       "id": "101",
       "name": "Electrode",
       "classification": "Ball Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
       "types": [
         "Electric"
       ],
@@ -2026,6 +2127,7 @@
       "id": "102",
       "name": "Exeggcute",
       "classification": "Egg Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
       "types": [
         "Grass",
         "Psychic"
@@ -2052,6 +2154,7 @@
       "id": "103",
       "name": "Exeggutor",
       "classification": "Coconut Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
       "types": [
         "Grass",
         "Psychic"
@@ -2078,6 +2181,7 @@
       "id": "104",
       "name": "Cubone",
       "classification": "Lonely Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
       "types": [
         "Ground"
       ],
@@ -2096,6 +2200,7 @@
       "id": "105",
       "name": "Marowak",
       "classification": "Bone Keeper Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
       "types": [
         "Ground"
       ],
@@ -2114,6 +2219,7 @@
       "id": "106",
       "name": "Hitmonlee",
       "classification": "Kicking Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
       "types": [
         "Fighting"
       ],
@@ -2132,6 +2238,7 @@
       "id": "107",
       "name": "Hitmonchan",
       "classification": "Punching Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
       "types": [
         "Fighting"
       ],
@@ -2150,6 +2257,7 @@
       "id": "108",
       "name": "Lickitung",
       "classification": "Licking Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
       "types": [
         "Normal"
       ],
@@ -2164,6 +2272,7 @@
       "id": "109",
       "name": "Koffing",
       "classification": "Poison Gas Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
       "types": [
         "Poison"
       ],
@@ -2183,6 +2292,7 @@
       "id": "110",
       "name": "Weezing",
       "classification": "Poison Gas Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
       "types": [
         "Poison"
       ],
@@ -2198,6 +2308,7 @@
       "id": "111",
       "name": "Rhyhorn",
       "classification": "Spikes Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
       "types": [
         "Ground",
         "Rock"
@@ -2223,6 +2334,7 @@
       "id": "112",
       "name": "Rhydon",
       "classification": "Drill Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
       "types": [
         "Ground",
         "Rock"
@@ -2248,6 +2360,7 @@
       "id": "113",
       "name": "Chansey",
       "classification": "Egg Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
       "types": [
         "Normal"
       ],
@@ -2262,6 +2375,7 @@
       "id": "114",
       "name": "Tangela",
       "classification": "Vine Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
       "types": [
         "Grass"
       ],
@@ -2283,6 +2397,7 @@
       "id": "115",
       "name": "Kangaskhan",
       "classification": "Parent Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
       "types": [
         "Normal"
       ],
@@ -2297,6 +2412,7 @@
       "id": "116",
       "name": "Horsea",
       "classification": "Dragon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
       "types": [
         "Water"
       ],
@@ -2315,6 +2431,7 @@
       "id": "117",
       "name": "Seadra",
       "classification": "Dragon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
       "types": [
         "Water"
       ],
@@ -2333,6 +2450,7 @@
       "id": "118",
       "name": "Goldeen",
       "classification": "Goldfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
       "types": [
         "Water"
       ],
@@ -2351,6 +2469,7 @@
       "id": "119",
       "name": "Seaking",
       "classification": "Goldfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
       "types": [
         "Water"
       ],
@@ -2369,6 +2488,7 @@
       "id": "120",
       "name": "Staryu",
       "classification": "Starshape Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
       "types": [
         "Water"
       ],
@@ -2387,6 +2507,7 @@
       "id": "121",
       "name": "Starmie",
       "classification": "Mysterious Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
       "types": [
         "Water",
         "Psychic"
@@ -2411,6 +2532,7 @@
       "id": "122",
       "name": "Mr. Mime",
       "classification": "Barrier Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
       "types": [
         "Psychic",
         "Fairy"
@@ -2430,6 +2552,7 @@
       "id": "123",
       "name": "Scyther",
       "classification": "Mantis Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
       "types": [
         "Bug",
         "Flying"
@@ -2452,6 +2575,7 @@
       "id": "124",
       "name": "Jynx",
       "classification": "Humanshape Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
       "types": [
         "Ice",
         "Psychic"
@@ -2473,6 +2597,7 @@
       "id": "125",
       "name": "Electabuzz",
       "classification": "Electric Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
       "types": [
         "Electric"
       ],
@@ -2489,6 +2614,7 @@
       "id": "126",
       "name": "Magmar",
       "classification": "Spitfire Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
       "types": [
         "Fire"
       ],
@@ -2510,6 +2636,7 @@
       "id": "127",
       "name": "Pinsir",
       "classification": "Stagbeetle Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
       "types": [
         "Bug"
       ],
@@ -2528,6 +2655,7 @@
       "id": "128",
       "name": "Tauros",
       "classification": "Wild Bull Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
       "types": [
         "Normal"
       ],
@@ -2542,6 +2670,7 @@
       "id": "129",
       "name": "Magikarp",
       "classification": "Fish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
       "types": [
         "Water"
       ],
@@ -2560,6 +2689,7 @@
       "id": "130",
       "name": "Gyarados",
       "classification": "Atrocious Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
       "types": [
         "Water",
         "Flying"
@@ -2581,6 +2711,7 @@
       "id": "131",
       "name": "Lapras",
       "classification": "Transport Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
       "types": [
         "Water",
         "Ice"
@@ -2600,6 +2731,7 @@
       "id": "132",
       "name": "Ditto",
       "classification": "Transform Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
       "types": [
         "Normal"
       ],
@@ -2614,6 +2746,7 @@
       "id": "133",
       "name": "Eevee",
       "classification": "Evolution Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
       "types": [
         "Normal"
       ],
@@ -2628,6 +2761,7 @@
       "id": "134",
       "name": "Vaporeon",
       "classification": "Bubble Jet Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
       "types": [
         "Water"
       ],
@@ -2646,6 +2780,7 @@
       "id": "135",
       "name": "Jolteon",
       "classification": "Lightning Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
       "types": [
         "Electric"
       ],
@@ -2662,6 +2797,7 @@
       "id": "136",
       "name": "Flareon",
       "classification": "Flame Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
       "types": [
         "Fire"
       ],
@@ -2683,6 +2819,7 @@
       "id": "137",
       "name": "Porygon",
       "classification": "Virtual Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
       "types": [
         "Normal"
       ],
@@ -2697,6 +2834,7 @@
       "id": "138",
       "name": "Omanyte",
       "classification": "Spiral Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
       "types": [
         "Rock",
         "Water"
@@ -2719,6 +2857,7 @@
       "id": "139",
       "name": "Omastar",
       "classification": "Spiral Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
       "types": [
         "Rock",
         "Water"
@@ -2741,6 +2880,7 @@
       "id": "140",
       "name": "Kabuto",
       "classification": "Shellfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
       "types": [
         "Rock",
         "Water"
@@ -2763,6 +2903,7 @@
       "id": "141",
       "name": "Kabutops",
       "classification": "Shellfish Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
       "types": [
         "Rock",
         "Water"
@@ -2785,6 +2926,7 @@
       "id": "142",
       "name": "Aerodactyl",
       "classification": "Fossil Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
       "types": [
         "Rock",
         "Flying"
@@ -2808,6 +2950,7 @@
       "id": "143",
       "name": "Snorlax",
       "classification": "Sleeping Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
       "types": [
         "Normal"
       ],
@@ -2822,6 +2965,7 @@
       "id": "144",
       "name": "Articuno",
       "classification": "Freeze Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
       "types": [
         "Ice",
         "Flying"
@@ -2842,6 +2986,7 @@
       "id": "145",
       "name": "Zapdos",
       "classification": "Electric Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
       "types": [
         "Electric",
         "Flying"
@@ -2862,6 +3007,7 @@
       "id": "146",
       "name": "Moltres",
       "classification": "Flame Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
       "types": [
         "Fire",
         "Flying"
@@ -2884,6 +3030,7 @@
       "id": "147",
       "name": "Dratini",
       "classification": "Dragon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
       "types": [
         "Dragon"
       ],
@@ -2903,6 +3050,7 @@
       "id": "148",
       "name": "Dragonair",
       "classification": "Dragon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
       "types": [
         "Dragon"
       ],
@@ -2922,6 +3070,7 @@
       "id": "149",
       "name": "Dragonite",
       "classification": "Dragon Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
       "types": [
         "Dragon",
         "Flying"
@@ -2945,6 +3094,7 @@
       "id": "150",
       "name": "Mewtwo",
       "classification": "Genetic Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
       "types": [
         "Psychic"
       ],
@@ -2962,6 +3112,7 @@
       "id": "151",
       "name": "Mew",
       "classification": "New Species Pokémon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
       "types": [
         "Psychic"
       ],

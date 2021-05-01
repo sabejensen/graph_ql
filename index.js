@@ -15,6 +15,7 @@ const typeDefs = gql`
     id: String
     name: String
     classification: String
+    sprite: String
   }
 
   type Query {

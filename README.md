@@ -7,6 +7,7 @@ Clone this repo and open two terminal windows in the root directory. In the firs
 In the second terminal, you can start your docker server with the following commands:
 
 `$ cd docker`
+
 `$ docker-compose -f stack.yml up`
 
 Your docker server should now be up and running. In the first terminal (still in the root directory), you can initialize the GraphQL server with seed data:
